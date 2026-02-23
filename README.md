@@ -184,7 +184,6 @@ python app.py
 - Pandas
 - NumPy
 - MySQL
-- Flask (if used for backend)
 - HTML/CSS (Frontend)
 
 ---
